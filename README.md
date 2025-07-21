@@ -101,6 +101,5 @@ data-warehouse-project/
 ├── tests/                              # Test scripts and data quality checks
 │
 ├── README.md                           # Project overview
-├── LICENSE                             # License details
 ├── .gitignore                          # Git ignored files
 └── requirements.txt                    # Project dependencies
